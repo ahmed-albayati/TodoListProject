@@ -1,0 +1,2 @@
+only JavaScript and HTML
+no CSS
